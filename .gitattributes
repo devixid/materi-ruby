@@ -1,0 +1,4 @@
+* text=auto
+
+*.rb diff=rb
+*.md diff=markdown
